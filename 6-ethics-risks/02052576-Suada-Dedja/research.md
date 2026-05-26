@@ -37,7 +37,10 @@ This is especially dangerous for junior developers. If beginners use AI to solve
 ## 5. Human Supervision and Responsibility
 Even though AI tools can increase productivity and save time, they should never operate without human supervision. Software engineers remain responsible for the quality, safety, and ethical impact of the systems they develop. AI can support decision-making, but final responsibility still belongs to humans who understand the code and its consequences.
 
-## 6. Conclusion 
+## 6. The Evolving Role of Software Engineers
+In the future, software engineers will transition from traditional code writers to system architects and AI supervisors. The focus will shift from syntax and boilerplate coding to high-level design, system integration, and rigorous verification. Engineers must develop strong critical thinking skills to audit AI-generated solutions and ensure they align with security and business goals.
+
+## 7. Conclusion 
 AI is becoming an important part of software engineering, but it is not perfect. Hallucinations, security vulnerabilities, privacy concerns, and skill degradation show that AI still has significant limitations. Instead of replacing engineers, AI should be treated as a powerful assistant that requires careful oversight. The future of software engineering will depend not only on smarter tools but also on responsible developers who understand, verify, and improve the code they create.
 
 
