@@ -1,19 +1,17 @@
 # References
 
-* **OWASP Foundation** (2023). *OWASP Top 10 for Large Language Model Applications Project.* Available at: [https://owasp.org/www-project-top-10-for-large-language-models-applications/](https://owasp.org/www-project-top-10-for-large-language-models-applications/)
+* **OWASP Foundation** (2025). *OWASP Top 10 for Large Language Model Applications Project*. Available at: [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
 
-* **GitHub Security Lab** (2024). *Securing AI-Generated Code in the Modern Development Lifecycle.* Available at: [https://security.github.com](https://security.github.com)
+* **OpenSSF & GitHub Security Lab** (2026). *AI Software Development Security Tips and the Future*. Available at: [https://openssf.org/blog/2026/01/05/ai-software-development-security-tips-and-the-future-part-2/](https://openssf.org/blog/2026/01/05/ai-software-development-security-tips-and-the-future-part-2/)
 
-* **Microsoft Research** (2024). *The Socio-Technical Impact of AI Assistants on Software Engineering Practices.* Available at: [https://www.microsoft.com/en-us/research/](https://www.microsoft.com/en-us/research/)
+* **arXiv / Microsoft Research** (2026). *The Impact of AI Coding Assistants on Software Engineering: A Longitudinal Study*. Available at: [https://arxiv.org/html/2605.23135v1](https://arxiv.org/html/2605.23135v1)
 
-* **Siddiqui, M. A.** (2024). *The Impact of Generative AI on Software Engineering Skills and Cognitive Dependency.* IEEE Software Blog. Available at: [https://www.computer.org/csdl/magazine/so](https://www.computer.org/csdl/magazine/so)
+* **Anthropic Research** (2026). *How AI assistance impacts the formation of coding skills and developer degradation*. Available at: [https://www.anthropic.com/research/AI-assistance-coding-skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
-* **ACM TechNews** (2024). *AI Hallucinations and Code Quality: Current Challenges in Autonomous Programming.* Association for Computing Machinery. Available at: [https://technews.acm.org](https://technews.acm.org)
+* **ResearchGate / IEEE Authors** (2025). *The Impact of Generative AI on Modern Software Development: Revolutionizing the Development Lifecycle*. Available at: [https://www.researchgate.net/publication/389002790_The_Impact_of_Generative_AI_on_Modern_Software_Development_Revolutionizing_the_Development_Lifecycle](https://www.researchgate.net/publication/389002790_The_Impact_of_Generative_AI_on_Modern_Software_Development_Revolutionizing_the_Development_Lifecycle)
 
-* **Gartner** (2024). *Top Strategic Technology Trends: The Evolution of AI-Assisted Software Engineering.* Available at: [https://www.gartner.com](https://www.gartner.com)
+* **Gartner** (2024). *Gartner Identifies the Top 10 Strategic Technology Trends: AI-Augmented Development*. Available at: [https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-identifies-the-top-10-strategic-technology-trends-for-2024](https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-identifies-the-top-10-strategic-technology-trends-for-2024)
 
-* **Snyk Security Research** (2024). *The AI Code Safety Report: Security Risks and Vulnerabilities in AI-Generated Codebases.* Available at: [https://snyk.io](https://snyk.io)
+* **McKinsey & Company** (2023). *The Economic Potential of Generative AI: The Next Productivity Frontier in Software Engineering*. Available at: [https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai)
 
-* **McKinsey & Company** (2023). *The Economic Potential of Generative AI: The Next Productivity Frontier in Software Engineering.* Available at: [https://www.mckinsey.com](https://www.mckinsey.com)
-
-* **Leonardi, P. M.** (2024). *What Generative AI Means for the Future of Work.* Harvard Business Review. Available at: [https://hbr.org](https://hbr.org)
+* **Microsoft Research** (2026). *New Future of Work: AI is driving rapid change, uneven benefits*. Available at: [https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/)
