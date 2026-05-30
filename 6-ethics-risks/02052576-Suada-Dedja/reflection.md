@@ -15,3 +15,8 @@ weakening of the ability to think critically and solve problems on their own.Thi
 means that programming is not just about getting the right answer, but also about understanding how everything works, making mistakes and trying again
 until you achieve the desired result. What also worries me are the issues of privacy and security, because it happens that many companies can
 inadvertently expose sensitive data when using AI.
+
+However, despite the risks and challenges that the use of AI creates. It also has positive sides. For example, by using AI, programmers not only save time
+but its use allows repetitive tasks to be automated and the focus to be more on the creative or analytical parts of software development. Also, as I
+mentioned a little above, AI is useful for finding ideas, can be useful for learning new technologies, as well as for helping with debugging when used in
+a controlled and responsible way.
